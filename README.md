@@ -5,3 +5,7 @@
 <p align=center>
   <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/Kazik_layout_options.png" alt="Kazik layout options"/>
 </p>
+## PC and Switchplate
+You can find the production files <a href="https://github.com/monokuroumu/Kazik/tree/main/production">here</a>.
+## Case
+Case was designed and provided by HaiZeus - as soon as he will get his github repository for the files running - I will link the repo here - for now you can find all the files <a href="https://github.com/monokuroumu/Kazik/tree/main/case">here</a>. There are four options of the case for various layouts and .dxf files for acrylic diffusers and bottom plate. Case uses M3 brass inserts and M3 screws, acrylics should be 2mm.
