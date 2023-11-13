@@ -20,3 +20,8 @@ So s few mistakes were made. Not critical, but wanted to mention it for people w
   <li>The design uses japanese duplex matrix - so it is important to place the diodes properly - take carefull notice of the direction of the arrows and solder your diodes accordingly.</br></br>
   <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/diodes-direction.jpg" alt="Diodes direction" width="800px" height="400px"/></br></br>
 </ul>
+<H2>BOM</H2>
+<ul>
+  <li>PCB x1 - you can order one at JLCPCB, PCBWAY or any other manufacturer using <a href="https://github.com/monokuroumu/Kazik/blob/main/production/Gerber_PCB_Kazik_smooth_rev1.zip">this gerber file</a></li>
+  <li>Switchplate x1 - you can</li>
+</ul>
