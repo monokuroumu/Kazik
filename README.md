@@ -15,5 +15,8 @@ Case was designed and provided by HaiZeus - as soon as he will get his github re
 So s few mistakes were made. Not critical, but wanted to mention it for people who would like to build it. </br></br>
 <ul>
   <li>The pads for rgb underlight led strip are in bad order for most of the strips, making it tricky to solder one.</br></br>
-  <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/rgb-strip.jpg" alt="Rgb underlight pads" width="400px" height="400px"/></li>
+  <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/rgb-strip.jpg" alt="Rgb underlight pads" width="400px" height="400px"/></br></br>
+  It will be corrected in Rev2, and chaged from pads to TH.</li>
+  <li>The design uses japanese duplex matrix - so it is important to place the diodes properly - take carefull notice of the direction of the arrows and solder your diodes accordingly.</br></br>
+  
 </ul>
