@@ -18,5 +18,5 @@ So s few mistakes were made. Not critical, but wanted to mention it for people w
   <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/rgb-strip.jpg" alt="Rgb underlight pads" width="400px" height="400px"/></br></br>
   It will be corrected in Rev2, and chaged from pads to TH.</li>
   <li>The design uses japanese duplex matrix - so it is important to place the diodes properly - take carefull notice of the direction of the arrows and solder your diodes accordingly.</br></br>
-  
+  <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/diodes-direction.jpg" alt="Diodes direction" width="800px" height="400px"/></br></br>
 </ul>
