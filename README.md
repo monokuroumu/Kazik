@@ -23,5 +23,5 @@ So s few mistakes were made. Not critical, but wanted to mention it for people w
 <H2>BOM</H2>
 <ul>
   <li>PCB x1 - you can order one at JLCPCB, PCBWAY or any other manufacturer using <a href="https://github.com/monokuroumu/Kazik/blob/main/production/Gerber_PCB_Kazik_smooth_rev1.zip">this gerber file</a></li>
-  <li>Switchplate x1 - you can</li>
+  <li>Switchplate x1 - you can order one at JLCPCB, PCBWAY or any other manufacturer using <a href="https://github.com/monokuroumu/Kazik/blob/main/production/Gerber_PCB_Kazik_SwitchPlate.zip">this gerber file</a>, or get it cut from material of your choice using <a href="https://github.com/monokuroumu/Kazik/blob/main/production/Kazik_HaiZeus_Yasui_Switch_plate.dxf">this file</a> as a guideline</li>
 </ul>
