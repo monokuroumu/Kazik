@@ -15,5 +15,5 @@ Case was designed and provided by HaiZeus - as soon as he will get his github re
 So s few mistakes were made. Not critical, but wanted to mention it for people who would like to build it. </br></br>
 <ul>
   <li>The pads for rgb underlight led strip are in bad order for most of the strips, making it tricky to solder one.</br></br>
-  <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/rgb-strip.jpg" alt="Rgb underlight pads"/></li>
+  <img src="https://raw.githubusercontent.com/monokuroumu/Kazik/main/images/rgb-strip.jpg" alt="Rgb underlight pads" width="400px" height="400px"/></li>
 </ul>
