@@ -45,3 +45,4 @@ So s few mistakes were made. Not critical, but wanted to mention it for people w
   <li><a href="https://kiserdesigns.bigcartel.com/">NoahK</a> for helping me with vial configuration of layouts</li>
   <li>40% Discord community - for all inspiration.</li>
 </ul>
+If you build a Kazik - I would be pretty happy to see some pictures. You can also join my <a href=https://discord.gg/8NqwhaPzvh">Discord server</a> and see other projects I am working on.
