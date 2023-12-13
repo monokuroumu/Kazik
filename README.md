@@ -39,7 +39,7 @@ So s few mistakes were made. Not critical, but wanted to mention it for people w
 <H2>Credits</H2>
 <ul>
   <li><a href="https://github.com/rainkeebs">Rain</a> - Yasui is a great inspiration ;]</li>
-  <li>HaiZeus - the case is AWESOMETACULAR</li>
+  <li><a href="https://github.com/HaiZeus0411">HaiZeus</a> - the case is AWESOMETACULAR</li>
   <li><a href="https://booth.pm/ja/items/2874236">Yohe</a> - M0II0 is one of the cutest keyboards for me</li>
   <li><a href="https://github.com/tompi/cheapino">Thomas Haukland</a> for helping me with his custom matrix.c code for japanese duplex matrix</li>
   <li><a href="https://kiserdesigns.bigcartel.com/">NoahK</a> for helping me with vial configuration of layouts</li>
